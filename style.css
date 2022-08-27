@@ -1,1 +1,14 @@
+body{
+    background-color: black;
+}
 
+.title span{
+    color: cornflowerblue;
+    position:relative;
+    float: left;
+}
+
+.search-box{
+    background-color: black;
+    color: grey;
+}
